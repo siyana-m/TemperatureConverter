@@ -50,7 +50,7 @@ TemperatureConverter/
 
 ## Running the Application
 
-When you run the application, you can give a value and it will output the temperature conversion from Fahrenheit to Celsius
+When you run the application, you can give a value and it will output the temperature conversion from Fahrenheit to Celsius.
 
 ## Contributing
 
